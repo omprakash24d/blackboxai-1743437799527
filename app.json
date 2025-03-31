@@ -1,0 +1,9 @@
+{
+  "android": {
+    "package": "com.anonymous.blackboxai1743437799527"
+  },
+  "plugins": [
+    "expo-secure-store",
+    "expo-sqlite"
+  ]
+}
